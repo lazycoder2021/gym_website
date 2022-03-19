@@ -853,15 +853,15 @@ secboxlogo:hover {
     margin: 0px auto;
 }
 
-@media only screen and (max-width:500px){
+@media only screen and (max-width:480px){
     .container{
-        width:500px;
+        width:480px;
     }
 
 
 
     .container1{
-        width:500px;
+        width:480px;
         background-position:center;
         height:350px;
     }
@@ -916,13 +916,13 @@ secboxlogo:hover {
 
     .container3{
         margin-top:0px;
-        width:500px;
+        width:480px;
         height:240vh;
         //border:10px solid red;
     }
 
     .container4 {
-        width:500px;
+        width:480px;
     }
 
     .section5{
@@ -945,7 +945,7 @@ secboxlogo:hover {
     }
 
     .section7{
-        width:500px;
+        width:480px;
         flex-direction:column;
         //margin-top:200px;
         
@@ -988,7 +988,7 @@ secboxlogo:hover {
 
     .container5{
         margin-top:0px;
-        width:500px;
+        width:480px;
         //border:10px solid red;
         height:auto;
     }
@@ -1005,7 +1005,7 @@ secboxlogo:hover {
 
     .container6 {
         margin-top: 330px;
-        width: 500px;
+        width: 480px;
         height: 300vh;
     }
 
@@ -1031,7 +1031,7 @@ secboxlogo:hover {
     }
 
     .container7{
-        width:500px;
+        width:480px;
         margin-top:450px;
         height:auto;
     }
@@ -1066,7 +1066,7 @@ secboxlogo:hover {
     .container8{
         //border:10px solid red;
         margin-top:0px;
-        width:500px;
+        width:480px;
     }
 
     .section15{
@@ -1081,7 +1081,7 @@ secboxlogo:hover {
 
     .section16{
         margin-top:100px;
-        width:500px;
+        width:480px;
         flex-direction:column;
         height:auto;
     }
